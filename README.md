@@ -4,6 +4,8 @@
 
 CyberStart kapsamında Python programlama dili, Siber Güvenlik, Yapay Zeka (AI), Blok Zincir (Blockchain), Bulut Bilişim (Cloud Computing), Nesnelerin İnterneti (IoT), Bilgisayar Ağları ve Teknik Olmayan Yetkinlikler (Soft Skills) gibi birçok konuyu 6 haftalık süreçte ele aldım ve ürettiğim ders materyallerini GitHub repomda topladım.
 
+Notlarımda yer alan görsellerin kaynağı IBM SkillsBuild platformudur.
+
 ---
 
 ## 1. Hafta
